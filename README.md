@@ -4,6 +4,13 @@
 
 The Legend of Zelda: Breath of the Wild is an open-world action-adventure game set in the kingdom of Hyrule. Players take on the role of Link, an agile explorer, master fighter, and skilled rune user. The game focuses on exploration, combat, and puzzle-solving using various abilities and weapons.
 
+## Game Preview
+
+
+https://github.com/Ziaad-Khaled/the-legend-of-zelda/assets/77291238/af84a32b-f7ac-46e4-9422-e1aa408bad5d
+
+
+
 ## Game Mechanics
 ### Controls
 
@@ -54,7 +61,7 @@ Link has access to various rune abilities:
 
 ### Normal Enemies
 
-Normal Enemies are found in the Overworld level. They are initially idly standing in camping sites in small groups. Once Link approaches their camping area or begins attacking them from a distance, the enemies are alerted and start sprinting towards Link to attack him. The enemies will continue to attack Link until either Link or all of the enemies are killed.
+Normal Enemies are found in the Overworld level. They are initially idly standing in camping sites in small groups. Once Link approaches their camping area or begins attacking them from a distance, the enemies are alerted and start sprinting toward Link to attack him. The enemies will continue to attack Link until either Link or all of the enemies are killed.
 
 Alerted enemies can perform different actions such as light and fast horizontal attacks, heavy and slow vertical attacks, trying to reach Link if he is out of range, reacting to damage upon being hit, briefly waiting between attacks, or dying when their health points reach zero. The enemies' health is displayed via a health bar on top of them in world space.
 
@@ -86,8 +93,8 @@ The game features five levels, including an Overworld level, a Shrine level, and
 ### 2. Shrine
 
 - A Shrine level requires Link to use all implemented Rune Abilities to reach a goal area.
-- Falling into an endless void results in Link's death in a Shrine level.
-- No enemies should be present in a Shrine level.
+- Falling into an endless void results in Link's death at a Shrine level.
+- No enemies should be present at a Shrine level.
 - All Shrine walls and objects are not climbable.
 - Objects affected by abilities can include boxes, rocks, swinging sandbags, and moving platforms.
 - When Link finishes a Shrine level by reaching a particular trigger area, he is automatically taken to the first Boss Arena level.
